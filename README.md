@@ -1,5 +1,7 @@
 # HR-Analysis-
-Goal:To analyze employee data and uncover key insights related to attrition rate, gender distribution, and department-wise retention trends to support data-driven decision-making.
+Goal: 
+To analyze employee data and uncover key insights related to attrition rate, gender distribution, and department-wise retention trends to support data-driven decision-making.
+
 Process:  
 1)Data Cleaning & Preparation (Power Query)
 Removed duplicates and inconsistencies in employee records.
