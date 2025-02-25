@@ -15,7 +15,6 @@ Used DAX functions like CALCULATE, FILTER, SUMX for KPI calculations.
 3️) Data Visualization (Power BI)
 Designed an interactive dashboard with filters for HR teams.
 Visualized attrition trends by department, gender, and marital status.
-Provided forecasting insights to predict high-risk attrition areas.
 
 Key Impact:
 Enabled data-backed retention strategies for a workforce of 1,470 employees.
